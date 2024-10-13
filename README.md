@@ -44,4 +44,6 @@ vim ~/.docker/config.json
 
 # Vscode
 
-## 
+## cmake变量
+
+在settings.json配置：
