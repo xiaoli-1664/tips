@@ -25,3 +25,7 @@ xhost +
 ```
 vim ~/.docker/config.json
 ```
+
+加入
+
+\`
