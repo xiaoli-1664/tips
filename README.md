@@ -1,6 +1,6 @@
 # Docker
 
-1. 以某个镜像启动容器，挂载本地文件夹并开启本地显示
+## 以某个镜像启动容器，挂载本地文件夹并开启本地显示
 
 ```
 docker run -it --name container_name \
@@ -18,7 +18,7 @@ image_name /bin/bash
 xhost +
 ```
 
-2. 容器使用宿主机代理
+## 容器使用宿主机代理
 
 打开配置文件：
 
