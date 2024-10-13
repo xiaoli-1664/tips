@@ -47,3 +47,9 @@ vim ~/.docker/config.json
 ## cmake变量
 
 在settings.json配置：
+
+```
+"cmake.confighreSettings":{
+  "CMAKE_
+}
+```
