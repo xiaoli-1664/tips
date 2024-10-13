@@ -1,5 +1,5 @@
 # 一、Docker
 
 ```
-int main()
+int
 ```
