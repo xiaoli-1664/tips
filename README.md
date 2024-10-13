@@ -8,5 +8,6 @@ docker run -it --name container_name \
 -e DISPLAY=unix$DISPLAY \
 -e GDK_SCALES \
 -e GDK_DPI_SCALE \
--v /home/user/f
+-v /home/user/dataset:/dataset \
+image_name /bin/bash
 ```
