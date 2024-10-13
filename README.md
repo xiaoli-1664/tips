@@ -56,3 +56,11 @@ vim ~/.docker/config.json
 ```
 
 ## 命令行参数
+
+settings.json配置：
+
+```
+"cmake.debugConfig": {
+  "arg
+}
+```
