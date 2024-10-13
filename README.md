@@ -11,3 +11,5 @@ docker run -it --name container_name \
 -v /home/user/dataset:/dataset \
 image_name /bin/bash
 ```
+
+使用前在本地终端打开权限：\`
