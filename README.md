@@ -61,6 +61,9 @@ settings.json配置：
 
 ```
 "cmake.debugConfig": {
-  "arg
+  "args": [
+  "arg1", "arg2",
+]
 }
+`
 ```
