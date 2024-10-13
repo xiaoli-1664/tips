@@ -28,4 +28,16 @@ vim ~/.docker/config.json
 
 加入
 
-\`
+```
+"proxies":
+        {
+          "default":
+          {
+            "httpProxy": "http://172.17.0.1:port",
+            "httpsProxy": "http://172.17.0.1:port",
+            "noProxy": "localhost, 127.0.0.1"
+          }
+        }
+```
+
+速
