@@ -12,4 +12,10 @@ docker run -it --name container_name \
 image_name /bin/bash
 ```
 
-使用前在本地终端打开权限：\`
+使用前在本地终端打开权限：
+
+```
+xhost +
+```
+
+2. 容器使用宿主机代理
