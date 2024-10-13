@@ -65,5 +65,4 @@ settings.json配置：
   "arg1", "arg2",
 ]
 }
-`
 ```
