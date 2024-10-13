@@ -51,5 +51,8 @@ vim ~/.docker/config.json
 ```
 "cmake.confighreSettings":{
   "CMAKE_BUILD_TYPE": "Debug",
+  "OpenCV_DIR": "/path",
 }
 ```
+
+## mi
