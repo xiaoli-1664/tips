@@ -5,5 +5,8 @@
 ```
 docker run -it --name container_name \
 -v /tmp/.X11-unix:/tmp/.X11-unix \
--e DISPLAY=unix
+-e DISPLAY=unix$DISPLAY \
+-e GDK_SCALES \
+-e GDK_DPI_SCALE \
+-v /home/user/f
 ```
