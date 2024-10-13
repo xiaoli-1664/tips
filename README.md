@@ -50,6 +50,6 @@ vim ~/.docker/config.json
 
 ```
 "cmake.confighreSettings":{
-  "CMAKE_
+  "CMAKE_BUILD_TYPE": "Debug",
 }
 ```
