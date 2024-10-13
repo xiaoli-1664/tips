@@ -40,4 +40,4 @@ vim ~/.docker/config.json
         }
 ```
 
-速
+172.17.0.1是虚拟网关，如果docker
