@@ -21,3 +21,7 @@ xhost +
 2. 容器使用宿主机代理
 
 打开配置文件：
+
+```
+vim ~/.docker/config.json
+```
