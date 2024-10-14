@@ -91,3 +91,7 @@ ssh-keygen -t rsa -C "email"
 ```
 
 3. 复制公钥
+
+```
+cat /
+```
