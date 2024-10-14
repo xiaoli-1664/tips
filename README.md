@@ -90,7 +90,7 @@ git config --global user.email "email"
 ssh-keygen -t rsa -C "email"
 ```
 
-3. 复制输出mi ya p
+3. 复制输出密钥
 
 ```
 cat /home/xxx/.ssh/id_rsa.pub
