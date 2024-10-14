@@ -76,3 +76,10 @@ sudo rm /etc/apt/sources.list.d/xxx.list
 ```
 
 ## 关联git帐号，配置ssh
+
+1. 配置git帐号
+
+```
+git config --global user.name "name"
+git confi
+```
