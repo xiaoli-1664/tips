@@ -66,3 +66,5 @@ settings.json配置：
 ]
 }
 ```
+
+# Ubunntu
