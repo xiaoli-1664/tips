@@ -75,4 +75,4 @@ settings.json配置：
 sudo rm /etc/apt/sources.list.d/xxx.list
 ```
 
-# ubuntu
+## 关联git帐号，配置ssh
