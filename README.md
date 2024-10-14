@@ -87,5 +87,7 @@ git config --global user.email "email"
 2. 生成ssh key
 
 ```
-ssh-keygen -t rsa -C
+ssh-keygen -t rsa -C "email"
 ```
+
+3. 复制公钥
