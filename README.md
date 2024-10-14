@@ -68,3 +68,5 @@ settings.json配置：
 ```
 
 # Ubunntu
+
+## 删除之前添加的源
