@@ -74,3 +74,5 @@ settings.json配置：
 ```
 sudo rm /etc/apt/sources.list.d/xxx.list
 ```
+
+# ubuntu
