@@ -81,5 +81,11 @@ sudo rm /etc/apt/sources.list.d/xxx.list
 
 ```
 git config --global user.name "name"
-git confi
+git config --global user.email "email"
+```
+
+2. 生成ssh key
+
+```
+ssh-keygen -t rsa -C
 ```
