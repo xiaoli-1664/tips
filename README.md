@@ -22,7 +22,7 @@ xhost +
 
 打开配置文件：
 
-```
+```plaintext
 vim ~/.docker/config.json
 ```
 
@@ -70,3 +70,7 @@ settings.json配置：
 # Ubunntu
 
 ## 删除之前添加的源
+
+```
+sudo rm /etc/apt/sources.list.d/xxx.list
+```
