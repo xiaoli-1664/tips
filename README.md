@@ -92,12 +92,12 @@ ssh-keygen -t rsa -C "email"
 
 3. 复制输出密钥
 
-```
+```plaintext
 cat /home/xxx/.ssh/id_rsa.pub
 ```
 
 4. 登陆github帐号，添加公钥
 
-```
+```plaintext
 setting --> SSH and GPGS Keys --> New  SSH Key-->复制cat id_rsa.pub里的秘钥到指定位置-->Add SSH Key
 ```
