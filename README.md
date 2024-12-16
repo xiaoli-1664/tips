@@ -105,3 +105,7 @@ setting --> SSH and GPGS Keys --> New  SSH Key-->复制cat id_rsa.pub里的秘�
 # Vim
 
 1. 取消显示virtual_text（诊断信息）
+
+```
+lua vim.diagnostic.config({v})
+```
